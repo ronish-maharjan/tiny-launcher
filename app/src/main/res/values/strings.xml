@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">Tiny TV Launcher</string>
+
+    <string name="settings">Launcher Settings</string>
+    <string name="settings_hidden_apps">Hidden apps</string>
+    <string name="settings_rearrange_apps">Rearrange apps</string>
+    <string name="settings_hide_apps">Hide apps</string>
+    <string name="settings_reset_layout">Reset layout</string>
+
+    <string name="hidden_apps">Hidden Apps</string>
+    <string name="no_hidden_apps">There are no hidden apps.</string>
+
+    <string name="reset_layout">Reset</string>
+    <string name="reset_layout_message">Return apps to alphabetical order?</string>
+
+    <string name="move">Move</string>
+    <string name="hide">Hide</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+
+    <string name="mode_move">Rearrange • arrows to move • OK done</string>
+    <string name="mode_hide">Hide apps • OK hide • Back done</string>
+
+    <string name="no_apps">No applications found.</string>
+
+    <string name="settings_content_description">Launcher settings</string>
+
+    <string name="launch_error">Unable to open %1$s</string>
+
+</resources>
